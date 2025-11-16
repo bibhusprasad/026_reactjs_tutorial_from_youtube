@@ -108,3 +108,8 @@ Same for import
   * Store input filed value in state
   * Use change handler with input field
   * Value attribute attached with State
+
+[Control Component in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/8a0ee87bf7f2c93ffeaabbacb6fd6a1503e05305)
+
+### 10. Handle checkbox in React
+

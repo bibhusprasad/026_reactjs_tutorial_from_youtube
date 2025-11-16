@@ -1,12 +1,12 @@
 
-import ControlComponent from "./ControlComponent"
+import HandleCheckBoxes from "./HandleCheckBoxes"
 
 function App() {
 
   return (
     <>
       <div>
-        <ControlComponent />
+        <HandleCheckBoxes />
       </div>
     </>
   )
