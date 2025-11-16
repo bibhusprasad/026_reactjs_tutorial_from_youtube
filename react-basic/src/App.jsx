@@ -1,11 +1,12 @@
-import StateIntro from "./PreStateIntro"
+
+import StateInAction from "./StateInAction"
 
 function App() {
 
   return (
     <>
       <div>
-        <StateIntro />
+        <StateInAction />
       </div>
     </>
   )
