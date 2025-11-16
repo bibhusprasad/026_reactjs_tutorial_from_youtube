@@ -1,12 +1,12 @@
 
-import StateInAction from "./StateInAction"
+import Toggle from "./Toggle"
 
 function App() {
 
   return (
     <>
       <div>
-        <StateInAction />
+        <Toggle />
       </div>
     </>
   )
