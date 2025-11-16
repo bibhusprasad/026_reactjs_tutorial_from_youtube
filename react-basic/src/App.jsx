@@ -1,12 +1,19 @@
-import FirstComponent from "./FirstComponent"
 
+//default import 
+import ImportExport from "./ImportExport";
+
+//multiple named imports
+import { Login, Profile, UserKey } from "./ImportExport";
 
 function App() {
 
   return (
     <>
       <div>
-        <FirstComponent />
+        <ImportExport />
+        <Login />
+        <Profile />
+        {UserKey}
       </div>
     </>
   )
