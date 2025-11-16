@@ -85,3 +85,9 @@ Same for import
 [Toggle or Hide and Show in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/eff4293cab2e825a042089fcf0d6140db69f2137)
 
 ### Multiple Conditions in React
+
+[Multiple Conditions else if](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a9f5b6fac333a3256f4b6da73e15b6bc82f0d693)
+
+### 07. Props in React
+
+* Props is used to pass data from one component to another component

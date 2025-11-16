@@ -1,12 +1,12 @@
 
-import MulConditions from "./MulConditions"
+import PropsIntro from "./PropsIntro"
 
 function App() {
 
   return (
     <>
       <div>
-        <MulConditions />
+        <PropsIntro />
       </div>
     </>
   )
