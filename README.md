@@ -121,3 +121,8 @@ Same for import
 
 ### Handle Loop in React Jsx
 
+[Handle Loop in React Jsx](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/bbeaf7d404af5c880e07c9b575e8dd25b870f0cd)
+
+### Reuse Component inside loop
+
+

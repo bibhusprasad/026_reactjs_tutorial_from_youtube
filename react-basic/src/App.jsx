@@ -1,12 +1,12 @@
 
-import HandleLoop from "./HandleLoop"
+import ReuseComponent from "./ReuseComponent"
 
 function App() {
 
   return (
     <>
       <div>
-        <HandleLoop />
+        <ReuseComponent />
       </div>
     </>
   )

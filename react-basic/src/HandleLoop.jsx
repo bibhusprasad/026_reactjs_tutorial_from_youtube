@@ -1,8 +1,6 @@
 
 function HandleLoop() {
 
-  const userNames = ['Anil', 'Bibhu', 'Peter', 'Sam'];
-
   const userData = [
     {
       name: 'Anil',
