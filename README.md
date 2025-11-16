@@ -53,3 +53,5 @@ Same for import
 [JSX Component Exercise 1](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d8d8795f89edb19c92d9b8b183b7c11fa209038f)
 
 ### JSX with Curly Braces
+
+[JSX with Curly Braces](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/b0eaf5d9be2ae2c2d9f6081c4d292793772e3680)

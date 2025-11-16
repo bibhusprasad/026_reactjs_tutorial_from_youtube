@@ -1,11 +1,11 @@
-import JsxExerciseTwo from "./JsxExerciseTwo"
+import ClickEventFunctionCall from "./ClickEventFunctionCall"
 
 function App() {
 
   return (
     <>
       <div>
-        <JsxExerciseTwo />
+        <ClickEventFunctionCall />
       </div>
     </>
   )
