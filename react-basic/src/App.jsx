@@ -1,12 +1,12 @@
 
-import HandleCheckBoxes from "./HandleCheckBoxes"
+import HandleRadioAndCheckbox from "./HandleRadioAndCheckbox"
 
 function App() {
 
   return (
     <>
       <div>
-        <HandleCheckBoxes />
+        <HandleRadioAndCheckbox />
       </div>
     </>
   )

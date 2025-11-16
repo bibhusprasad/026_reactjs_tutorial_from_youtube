@@ -113,3 +113,6 @@ Same for import
 
 ### 10. Handle checkbox in React
 
+[Handle checkbox in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/789f3f22e04786eb35c4e5128a82c9de927bcc65)
+
+### Handle radio button and dropdown in React
