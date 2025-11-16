@@ -1,12 +1,11 @@
-import JsxComponent from "./JsxComponent"
-
+import JsxExercise from "./JsxExercise"
 
 function App() {
 
   return (
     <>
       <div>
-        <JsxComponent />
+        <JsxExercise />
       </div>
     </>
   )

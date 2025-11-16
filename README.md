@@ -47,3 +47,6 @@ Same for import
 * JSX is a syntax extension for JavaScript thats lets you write HTML-like markup inside a JS file.
 
 ![plot](/images-for-note/04.JSX.png?raw=true)
+
+[JSX Component Intro](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f4a4752ceca78f4291c60f428ebb7ce6f9f5572b)
+
