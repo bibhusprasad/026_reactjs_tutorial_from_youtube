@@ -1,12 +1,12 @@
 
-import HandleRadioAndCheckbox from "./HandleRadioAndCheckbox"
+import HandleLoop from "./HandleLoop"
 
 function App() {
 
   return (
     <>
       <div>
-        <HandleRadioAndCheckbox />
+        <HandleLoop />
       </div>
     </>
   )
