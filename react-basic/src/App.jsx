@@ -1,12 +1,12 @@
 
-import ReuseComponent from "./ReuseComponent"
+import ClockExercise from "./ClockExercise"
 
 function App() {
 
   return (
     <>
       <div>
-        <ReuseComponent />
+        <ClockExercise />
       </div>
     </>
   )

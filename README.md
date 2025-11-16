@@ -125,4 +125,5 @@ Same for import
 
 ### Reuse Component inside loop
 
+[Reuse Component inside loop](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/88b670953a5ea01ab826504a2d8283830da0c2e6)
 

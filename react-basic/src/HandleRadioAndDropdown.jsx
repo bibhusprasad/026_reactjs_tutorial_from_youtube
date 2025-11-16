@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 
-function HandleRadioAndCheckbox() {
+function HandleRadioAndDropdown() {
 
   const [gender, setGender] = useState('male');
   const [city, setCity] = useState('bangalore');
@@ -33,4 +33,4 @@ function HandleRadioAndCheckbox() {
   )
 }
 
-export default HandleRadioAndCheckbox;
+export default HandleRadioAndDropdown;
