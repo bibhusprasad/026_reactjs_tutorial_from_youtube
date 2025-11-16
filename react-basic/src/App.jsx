@@ -1,12 +1,12 @@
 
-import ClockExercise from "./ClockExercise"
+import HandleNestedLoop from "./HandleNestedLoop"
 
 function App() {
 
   return (
     <>
       <div>
-        <ClockExercise />
+        <HandleNestedLoop />
       </div>
     </>
   )

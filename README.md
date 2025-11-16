@@ -127,3 +127,9 @@ Same for import
 
 [Reuse Component inside loop](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/88b670953a5ea01ab826504a2d8283830da0c2e6)
 
+
+### Exercise
+
+[Exercise change clock color on dropdown value](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a8ef9551480f15a7d5d1d5af1070cbb87a127ec3)
+
+
