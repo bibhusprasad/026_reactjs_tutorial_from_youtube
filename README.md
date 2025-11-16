@@ -100,3 +100,11 @@ Same for import
 
 ### 08. Get Input field Value
 
+[Get Input field Value](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/0333f5eb86ae254060d228af7d155b829d193dce)
+
+### 09. Control Component
+
+* A Controlled component is a form whose input filed value is controlled bt React's state
+  * Store input filed value in state
+  * Use change handler with input field
+  * Value attribute attached with State

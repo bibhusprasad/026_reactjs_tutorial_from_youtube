@@ -1,12 +1,12 @@
 
-import InputFieldValue from "./InputFieldValue"
+import ControlComponent from "./ControlComponent"
 
 function App() {
 
   return (
     <>
       <div>
-        <InputFieldValue />
+        <ControlComponent />
       </div>
     </>
   )
