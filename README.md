@@ -95,3 +95,8 @@ Same for import
 [Props in React in Action](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/db7be8d5260ac47f8ba4f834f3bd28b7e9fe50aa)
 
 ### Pass jsx in Props
+
+[Pass jsx in props](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d85f4338ff39754b5f82b2f4057b7c8304ef92e4)
+
+### 08. Get Input field Value
+

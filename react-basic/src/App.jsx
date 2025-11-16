@@ -1,12 +1,12 @@
 
-import JsxPropsWrapper from "./JsxPropsWrapper"
+import InputFieldValue from "./InputFieldValue"
 
 function App() {
 
   return (
     <>
       <div>
-        <JsxPropsWrapper />
+        <InputFieldValue />
       </div>
     </>
   )
