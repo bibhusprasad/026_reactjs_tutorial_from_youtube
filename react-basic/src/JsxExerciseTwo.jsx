@@ -14,18 +14,18 @@ function JsxExerciseTwo() {
 
   return (
     <div>
-      <h1>JSX with Curly Braces</h1>
-      <h2>{name ? name : "User not found"}</h2>
-      <h2>{2 + 3}</h2>
-      <h2>{x * y}</h2>
-      <h2>{fruit()}</h2>
-      <h2>{sum(3, 4)}</h2>
-      <h2>{userObject.firstName}</h2>
-      <h2>{userArray[2]}</h2>
-      <h2><input type="text" value={userObject.lastName} /></h2>
-      <h2>
+      <h2>JSX with Curly Braces</h2>
+      <h3>{name ? name : "User not found"}</h3>
+      <h3>{2 + 3}</h3>
+      <h3>{x * y}</h3>
+      <h3>{fruit()}</h3>
+      <h3>{sum(3, 4)}</h3>
+      <h3>{userObject.firstName}</h3>
+      <h3>{userArray[2]}</h3>
+      <h3><input type="text" value={userObject.lastName} /></h3>
+      <h3>
         <img src={path} />
-      </h2>
+      </h3>
     </div>
   )
 }
