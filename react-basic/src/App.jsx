@@ -1,11 +1,11 @@
-import ClickEventFunctionCall from "./ClickEventFunctionCall"
+import StateIntro from "./PreStateIntro"
 
 function App() {
 
   return (
     <>
       <div>
-        <ClickEventFunctionCall />
+        <StateIntro />
       </div>
     </>
   )

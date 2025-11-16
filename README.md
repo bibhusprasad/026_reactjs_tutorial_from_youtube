@@ -55,3 +55,21 @@ Same for import
 ### JSX with Curly Braces
 
 [JSX with Curly Braces](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/b0eaf5d9be2ae2c2d9f6081c4d292793772e3680)
+
+[Click Event and Function Call](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/c78651e59c4f8077baf4c9b41dea18b0d1fa851a)
+
+### 05. State in React
+
+* State is a container to store data like variable
+* This is mutable and dynamic
+* We have to import it when we want to use it
+* It re-render component automatically so that data can visible on UI
+
+### Hooks in React JS
+
+* Hooks are the special feature for functional component
+* Hooks let you use different React features from your components
+  * State
+  * Life Cycle methods
+  * Side effects etc..
+* example useState, useId
