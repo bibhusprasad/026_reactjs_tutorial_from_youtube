@@ -1,3 +1,4 @@
+import FirstComponent from "./FirstComponent"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-
+        <FirstComponent />
       </div>
     </>
   )
