@@ -1,12 +1,12 @@
 
-import Toggle from "./Toggle"
+import MulConditions from "./MulConditions"
 
 function App() {
 
   return (
     <>
       <div>
-        <Toggle />
+        <MulConditions />
       </div>
     </>
   )

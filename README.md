@@ -81,3 +81,7 @@ Same for import
 ### 06. Basic Conditions in React
 
 ### Toggle or Hide and Show in React
+
+[Toggle or Hide and Show in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/eff4293cab2e825a042089fcf0d6140db69f2137)
+
+### Multiple Conditions in React
