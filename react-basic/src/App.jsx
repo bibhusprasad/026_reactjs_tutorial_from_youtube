@@ -1,12 +1,12 @@
 
-import PropsIntro from "./PropsIntro"
+import JsxPropsWrapper from "./JsxPropsWrapper"
 
 function App() {
 
   return (
     <>
       <div>
-        <PropsIntro />
+        <JsxPropsWrapper />
       </div>
     </>
   )
