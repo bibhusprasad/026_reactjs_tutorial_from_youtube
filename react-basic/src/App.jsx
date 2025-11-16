@@ -1,11 +1,11 @@
-import JsxExercise from "./JsxExercise"
+import JsxExerciseTwo from "./JsxExerciseTwo"
 
 function App() {
 
   return (
     <>
       <div>
-        <JsxExercise />
+        <JsxExerciseTwo />
       </div>
     </>
   )

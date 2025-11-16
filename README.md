@@ -50,3 +50,6 @@ Same for import
 
 [JSX Component Intro](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f4a4752ceca78f4291c60f428ebb7ce6f9f5572b)
 
+[JSX Component Exercise 1](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d8d8795f89edb19c92d9b8b183b7c11fa209038f)
+
+### JSX with Curly Braces
