@@ -163,3 +163,12 @@ Same for import
 
 [Hook side useEffect Intro](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/4d1b02e612d1a96d96da94f01f097f81f3c48160)
 
+[Handle props with useEffect](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/eae518b2dbc6c78f540705dc3413596f18592d23)
+
+### useEffect hook for life cycle
+
+#### Component life cycle
+
+![plot](/images-for-note/11.component-lifecycle.png?raw=true)
+
+![plot](/images-for-note/11.useeffect-lifecycle.png?raw=true)

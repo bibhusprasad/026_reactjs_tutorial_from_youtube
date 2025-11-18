@@ -1,11 +1,11 @@
-import HookUseEffectProps from "./HookUseEffectProps"
+import HookUseEffectLifeCycle from "./HookUseEffectLifeCycle"
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseEffectProps />
+        <HookUseEffectLifeCycle />
       </div>
     </>
   )
