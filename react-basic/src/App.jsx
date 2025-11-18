@@ -1,11 +1,11 @@
-import HookUseEffect1 from "./HookUseEffect1"
+import HookUseEffectProps from "./HookUseEffectProps"
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseEffect1 />
+        <HookUseEffectProps />
       </div>
     </>
   )

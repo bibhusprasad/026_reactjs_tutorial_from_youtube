@@ -157,5 +157,9 @@ Same for import
 
 ![plot](/images-for-note/11.syntax-useeffect.png?raw=true)
 
-[Pre Hook side effects inside componennt](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f90ee16215c6cc3f2c2c04bb9f3e29cc7aa653ea)
+[Pre Hook side effects inside component](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f90ee16215c6cc3f2c2c04bb9f3e29cc7aa653ea)
+
+![plot](/images-for-note/11.useeffect-allusecase.png?raw=true)
+
+[Hook side useEffect Intro](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/4d1b02e612d1a96d96da94f01f097f81f3c48160)
 
