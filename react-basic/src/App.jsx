@@ -1,11 +1,12 @@
-import HookUseEffectLifeCycle from "./HookUseEffectLifeCycle"
+import StylingInline from "./StylingInline"
+
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseEffectLifeCycle />
+        <StylingInline />
       </div>
     </>
   )

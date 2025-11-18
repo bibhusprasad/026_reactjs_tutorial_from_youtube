@@ -172,3 +172,17 @@ Same for import
 ![plot](/images-for-note/11.component-lifecycle.png?raw=true)
 
 ![plot](/images-for-note/11.useeffect-lifecycle.png?raw=true)
+
+[React life cycle using useEffect](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/62323f1edec876110651cf1edadd965b33d10c0b)
+
+### 12. Styling inside React using CSS
+
+* Inline Style
+* External Style
+* CSS Modules
+* Styled components
+* External CSS Library or Framework
+
+### Inline Styling in CSS
+
+![plot](/images-for-note/12.Inline-styling.png?raw=true)
