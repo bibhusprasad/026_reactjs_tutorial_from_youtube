@@ -1,12 +1,11 @@
-
-import HandleNestedLoop from "./HandleNestedLoop"
+import HookUseEffectPre from "./HookUseEffectPre"
 
 function App() {
 
   return (
     <>
       <div>
-        <HandleNestedLoop />
+        <HookUseEffectPre />
       </div>
     </>
   )

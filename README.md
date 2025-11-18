@@ -127,9 +127,32 @@ Same for import
 
 [Reuse Component inside loop](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/88b670953a5ea01ab826504a2d8283830da0c2e6)
 
-
 ### Exercise
 
 [Exercise change clock color on dropdown value](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a8ef9551480f15a7d5d1d5af1070cbb87a127ec3)
 
+### Handle Nested Loop in React Jsx
 
+[Handle Nested Loop in React Jsx](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f18c433e1c27b050d045f84f645d4b01448d9271)
+
+### 11. Intro to Hooks in React js
+
+* To archive State, life cycle, other features in functional component we can use hooks
+  * useState
+  * useEffect
+  * useContext
+  * useRef
+  * useReducer
+  * etc... also we can create custom hook
+
+### useEffect
+
+* remove side effects inside component
+* remove side effect from outside component
+* use to fetch data
+* use as life cycle method
+* use for DOM manipulation ....
+
+#### Syntax
+
+![plot](/images-for-note/11.syntax-useeffect.png?raw=true)
