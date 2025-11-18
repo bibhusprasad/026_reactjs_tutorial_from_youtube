@@ -156,3 +156,6 @@ Same for import
 #### Syntax
 
 ![plot](/images-for-note/11.syntax-useeffect.png?raw=true)
+
+[Pre Hook side effects inside componennt](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/f90ee16215c6cc3f2c2c04bb9f3e29cc7aa653ea)
+

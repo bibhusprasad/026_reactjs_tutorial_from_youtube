@@ -13,7 +13,7 @@ function HookUseEffectPre() {
 
   return(
     <div>
-      <h2>Hook useEffect demo</h2>
+      <h2>Before using hook useEffect</h2>
       <button onClick={()=>setCounter(counter + 1)}>Counter {counter}</button>
       <button onClick={()=>setData(data + 1)}>Data {data}</button>
     </div>
