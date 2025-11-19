@@ -1,11 +1,11 @@
-import StyledComponent from "./StyledComponent"
+import StylingBootStrap from "./StylingBootStrap"
 
 function App() {
 
   return (
     <>
       <div>
-        <StyledComponent />
+        <StylingBootStrap />
       </div>
     </>
   )

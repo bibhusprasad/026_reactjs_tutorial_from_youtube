@@ -205,3 +205,9 @@ Same for import
 
 >npm i styled-components
 
+[Styled Component](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/891ed8f7fdae7f732853d21a60964bcd4e3f6d84)
+
+### Add Bootstrap in React
+
+>npm install react-bootstrap bootstrap
+
