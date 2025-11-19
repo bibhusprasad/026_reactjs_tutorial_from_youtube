@@ -1,4 +1,4 @@
-import StylingInline from "./StylingInline"
+import DynamicConditionalStylingInline from "./DynamicConditionalStylingInline"
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <StylingInline />
+        <DynamicConditionalStylingInline />
       </div>
     </>
   )

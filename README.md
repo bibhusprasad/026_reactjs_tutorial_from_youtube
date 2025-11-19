@@ -183,6 +183,11 @@ Same for import
 * Styled components
 * External CSS Library or Framework
 
-### Inline Styling in CSS
+### Inline Styling in React
 
 ![plot](/images-for-note/12.Inline-styling.png?raw=true)
+
+[Inline Styling in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d681c22dd267fea7f6afc11cce9b064090aff3fb)
+
+### Dynamic and Conditional Inline Style
+
