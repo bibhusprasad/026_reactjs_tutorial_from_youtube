@@ -1,11 +1,11 @@
-import StylingExternal from "./StylingExternal"
+import StylingWithCSSModule from "./StylingWithCSSModule"
 
 function App() {
 
   return (
     <>
       <div>
-        <StylingExternal />
+        <StylingWithCSSModule />
       </div>
     </>
   )

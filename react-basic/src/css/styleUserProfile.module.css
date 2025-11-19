@@ -1,0 +1,23 @@
+
+.heading {
+  color: green;
+}
+
+.imgStyle {
+  width: 200px;
+}
+
+.nameStyle {
+  padding: 5px;
+}
+
+.cardStyle {
+  border: 1px solid #cccccc69;
+  width: 200px;
+  box-shadow: 1px 2px 3px 0px #cccccc88;
+  margin: 10px
+}
+
+.container {
+  display: flex;
+}

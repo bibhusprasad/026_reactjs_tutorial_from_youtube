@@ -19,8 +19,8 @@ function StylingExternal() {
         <div className='card-style'>
           <img className='img-style' src="https://www.w3schools.com/howto/img_avatar.png" alt="" srcSet="" />
           <div className='name-style'>
-            <h4>Bibhu Prasad Samal</h4>
-            <p>Software Developer</p>
+            <h4>Dibyansh Samal</h4>
+            <p>Student</p>
           </div>
         </div>
 

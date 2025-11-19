@@ -195,3 +195,7 @@ Same for import
 
 ### External Styling in React
 
+[External Styling in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/443be6a0ac4b45aabc0b38ddf98850daa1839e25)
+
+### Style with CSS Module
+
