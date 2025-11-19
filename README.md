@@ -199,3 +199,9 @@ Same for import
 
 ### Style with CSS Module
 
+[Style with CSS Module](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/bd47bcc12fb6d480d26321d22a6535a447dead51)
+
+### Style Component
+
+>npm i styled-components
+

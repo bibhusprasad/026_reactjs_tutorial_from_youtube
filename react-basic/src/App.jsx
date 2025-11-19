@@ -1,11 +1,11 @@
-import StylingWithCSSModule from "./StylingWithCSSModule"
+import StyledComponent from "./StyledComponent"
 
 function App() {
 
   return (
     <>
       <div>
-        <StylingWithCSSModule />
+        <StyledComponent />
       </div>
     </>
   )

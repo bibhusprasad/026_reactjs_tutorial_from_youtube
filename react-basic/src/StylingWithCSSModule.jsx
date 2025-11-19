@@ -2,10 +2,10 @@ import StyleUserProfile from "./StyleUserProfile";
 
 function StylingWithCSSModule() {
   return (
-    <dev>
+    <div>
       <h2>Style with CSS Module</h2>
       <StyleUserProfile />
-    </dev>
+    </div>
   )
 }
 
