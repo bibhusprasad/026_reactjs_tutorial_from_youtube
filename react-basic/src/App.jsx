@@ -1,12 +1,11 @@
-import DynamicConditionalStylingInline from "./DynamicConditionalStylingInline"
-
+import StylingExternal from "./StylingExternal"
 
 function App() {
 
   return (
     <>
       <div>
-        <DynamicConditionalStylingInline />
+        <StylingExternal />
       </div>
     </>
   )

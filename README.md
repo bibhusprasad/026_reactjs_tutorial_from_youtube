@@ -191,3 +191,7 @@ Same for import
 
 ### Dynamic and Conditional Inline Style
 
+[Dynamic and Conditional Inline Style](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/7c74a6f3a7c5830afb520988f4c505054e2e1cda)
+
+### External Styling in React
+
