@@ -1,11 +1,11 @@
-import HookUseRef from "./HookUseRef"
+import UncontrolledComponent from "./UncontrolledComponent"
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseRef />
+        <UncontrolledComponent />
       </div>
     </>
   )
