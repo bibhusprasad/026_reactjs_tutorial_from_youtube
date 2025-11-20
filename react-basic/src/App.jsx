@@ -1,11 +1,11 @@
-import UncontrolledComponent from "./UncontrolledComponent"
+import PassFunctionParent from "./PassFunctionParent"
 
 function App() {
 
   return (
     <>
       <div>
-        <UncontrolledComponent />
+        <PassFunctionParent />
       </div>
     </>
   )
