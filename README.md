@@ -224,3 +224,8 @@ Same for import
 [Uncontrolled Component using useRef Hook](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/7dc8b3dcabac9821fe87936dd79e1c2a22b4abab)
 
 ### 14. Pass Function as Component as Props
+
+[Pass Function in Component as Props](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/423b16bd404205e6f17dc3df7060450124165a46)
+
+### ForwardRef in React
+

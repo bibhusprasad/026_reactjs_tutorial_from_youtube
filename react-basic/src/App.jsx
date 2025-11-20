@@ -1,11 +1,11 @@
-import PassFunctionParent from "./PassFunctionParent"
+import ForwardRefReact from "./ForwardRefReact"
 
 function App() {
 
   return (
     <>
       <div>
-        <PassFunctionParent />
+        <ForwardRefReact />
       </div>
     </>
   )
