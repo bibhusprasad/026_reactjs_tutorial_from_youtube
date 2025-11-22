@@ -256,3 +256,6 @@ Same for import
 * Sharing component between state
 
 ![plot](/images-for-note/17.lifting-state.png?raw=true)
+[Lifting State Up in React Js](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/e7078ee2801c5c3134f4913a98702b6ed8317236)
+
+### 18. Updating Objects in React Js

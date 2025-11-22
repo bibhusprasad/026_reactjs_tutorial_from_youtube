@@ -1,11 +1,11 @@
-import LiftingStateUp from "./LiftingStateUp"
+import UpdatingObjects from "./UpdatingObjects"
 
 function App() {
 
   return (
     <>
       <div>
-        <LiftingStateUp />
+        <UpdatingObjects />
       </div>
     </>
   )
