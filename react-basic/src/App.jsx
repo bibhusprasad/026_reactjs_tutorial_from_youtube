@@ -1,11 +1,11 @@
-import HookUseFormStatus from "./HookUseFormStatus"
+import HookUseTransition from "./HookUseTransition"
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseFormStatus />
+        <HookUseTransition />
       </div>
     </>
   )
