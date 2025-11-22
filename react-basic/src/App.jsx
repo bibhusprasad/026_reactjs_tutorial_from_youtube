@@ -1,11 +1,11 @@
-import DrivedState from "./DrivedState"
+import LiftingStateUp from "./LiftingStateUp"
 
 function App() {
 
   return (
     <>
       <div>
-        <DrivedState />
+        <LiftingStateUp />
       </div>
     </>
   )

@@ -248,3 +248,11 @@ Same for import
 * State that is calculated or derived from other state values or props within your component
 * Drived state cna be variable
 * No need to extra state only variables or constants are enough
+
+[Drived State in React JS](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/e0238681c6c53c4a35f10a1a3739099b7fe0bee5)
+
+### 17. Lifting State Up in React Js
+
+* Sharing component between state
+
+![plot](/images-for-note/17.lifting-state.png?raw=true)
