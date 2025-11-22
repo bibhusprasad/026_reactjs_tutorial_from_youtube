@@ -1,11 +1,11 @@
-import HookUseTransition from "./HookUseTransition"
+import DrivedState from "./DrivedState"
 
 function App() {
 
   return (
     <>
       <div>
-        <HookUseTransition />
+        <DrivedState />
       </div>
     </>
   )

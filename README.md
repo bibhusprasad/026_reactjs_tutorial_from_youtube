@@ -241,3 +241,10 @@ Same for import
 
 * work without form
 
+[useTransition React Hook](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/63a2e8e8c969b574cc2d36b0a415a939f84a00b4)
+
+### 16. Drived State in React JS
+
+* State that is calculated or derived from other state values or props within your component
+* Drived state cna be variable
+* No need to extra state only variables or constants are enough
