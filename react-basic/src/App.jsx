@@ -1,13 +1,12 @@
 
-import HookUseId from "./HookUseId"
+import { Fragment } from "react";
+import FragmentInReact from "./FragmentInReact"
 
 function App() {
 
   return (
     <>
-      <div>
-        <HookUseId />
-      </div>
+      <FragmentInReact />
     </>
   )
 }
