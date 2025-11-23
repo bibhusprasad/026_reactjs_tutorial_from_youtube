@@ -302,3 +302,7 @@ Same for import
 
 ![plot](/images-for-note/22.context-api.png?raw=true)
 
+[Context API](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a1d739f3a3a46f4131024562a0f4fd8b736cdffe)
+
+### 23. Custom Hook in React
+
