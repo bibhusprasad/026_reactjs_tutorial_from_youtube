@@ -1,12 +1,12 @@
 
-import UpdatingArray from "./UpdatingArray"
+import HookUseActionState from "./HookUseActionState"
 
 function App() {
 
   return (
     <>
       <div>
-        <UpdatingArray />
+        <HookUseActionState />
       </div>
     </>
   )
