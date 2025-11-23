@@ -1,12 +1,11 @@
 
-import { Fragment } from "react";
-import FragmentInReact from "./FragmentInReact"
+import ContextApi from "./ContextApi"
 
 function App() {
 
   return (
     <>
-      <FragmentInReact />
+      <ContextApi />
     </>
   )
 }
