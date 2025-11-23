@@ -12,12 +12,12 @@
 
 ## Project 1 : react-basic
 
-[Link to Readme file](./react-basic/README.md)
+### [Link to react-basic Readme file](./react-basic/README.md)
 
 ------------------------
 
 ## Project 2 : react-router
 
-[Link to Readme file](./react-basic/README.md)
+### [Link to react-router Readme file](./react-router/README.md)
 
 

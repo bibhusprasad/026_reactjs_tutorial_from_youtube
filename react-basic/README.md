@@ -1,10 +1,4 @@
-[Home Readme file](.././README.md)
-
-# 026_reactjs_tutorial_from_youtube
-
-<https://www.youtube.com/playlist?list=PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu>
-
-------------------------
+# [Home Readme file](.././README.md)
 
 react-basic
 ------------------------
