@@ -283,3 +283,15 @@ Same for import
 
 * Remove extra parent Elements like div
 
+ [Fragment in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/3e19177e194c9ac099631569805e526e50520465)
+
+### 21. Rules for React js Hooks
+
+* start with use then use camel case
+* Use hooks at top level
+
+![plot](/images-for-note/20.create-hooks.png?raw=true)
+![plot](/images-for-note/21.create-hooks-one.png?raw=true)
+![plot](/images-for-note/22.create-hooks-two.png?raw=true)
+
+
