@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   padding: 0;
@@ -16,7 +15,7 @@ body {
   list-style-type: none;
   margin: auto;
   justify-content: space-around;
-  width: 200px;
+  width: 300px;
 }
 
 .header ul li {
@@ -24,7 +23,13 @@ body {
 }
 
 .header .link {
-  margin: 0;
+  margin: 0px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.college .link {
+  margin: 10px;
   text-decoration: none;
   font-size: 20px;
 }
