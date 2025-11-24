@@ -34,3 +34,7 @@ react-router
 
 #### Layout Routing and Index Routing
 
+[Layout Routing and Index Routing](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a0cf95e33aa316b5c4d6714ec6da75e1ad06a35e)
+
+#### Route Prefixes
+

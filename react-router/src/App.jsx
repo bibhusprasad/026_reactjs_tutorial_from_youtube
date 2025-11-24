@@ -19,8 +19,12 @@ function App() {
       <Routes>
         <Route element={<NavBar />}>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/login" element={<Login />} />
+          <Route path='in'>
+            <Route path='/in/user'>
+              <Route path="/in/user/about" element={<About />} />
+              <Route path="/in/user/login" element={<Login />} />
+            </Route>
+          </Route>
         </Route>
 
         <Route path="/college" element={<College />} >
@@ -29,12 +33,11 @@ function App() {
           <Route path='collegeDetail' element={<CollegeDetail />} />
         </Route>
 
-        {/* This is load PageNOt Found Component (our own component)
+        {/* This is load PageNOt Found Component (our own component) */}
         <Route path="/*" element={<PageNotFound />} />
-        */}
 
         {/* This is Navigate to login page (Navigate is inside react-router)*/}
-        <Route path="/*" element={<Navigate to='/login' />} />
+        {/* <Route path="/*" element={<Navigate to='/login' />} /> */}
 
       </Routes>
     </>
