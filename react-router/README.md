@@ -27,3 +27,10 @@ react-router
 #### Page not found and 404 Page and Redirection
 
 [Page not found and 404 Page and Redirection](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/df004a33d1fa451e77ec8376976ef27f64cb26af)
+
+#### Nested Routing
+
+[Nested Routing](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/3698f4fd849969e1cb700d1270aeac6db8fcc6a5)
+
+#### Layout Routing and Index Routing
+

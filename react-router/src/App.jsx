@@ -15,23 +15,26 @@ function App() {
 
   return (
     <>
-      <NavBar />
+      {/* <NavBar /> */}
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/college" element={<College />} > 
-          <Route path='student' element={<Student />} />
+        <Route element={<NavBar />}>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/login" element={<Login />} />
+        </Route>
+
+        <Route path="/college" element={<College />} >
+          <Route index element={<Student />} />
           <Route path='department' element={<Department />} />
           <Route path='collegeDetail' element={<CollegeDetail />} />
         </Route>
-        
+
         {/* This is load PageNOt Found Component (our own component)
         <Route path="/*" element={<PageNotFound />} />
         */}
-        
+
         {/* This is Navigate to login page (Navigate is inside react-router)*/}
-        <Route path="/*" element={<Navigate to='/login'/>} />
+        <Route path="/*" element={<Navigate to='/login' />} />
 
       </Routes>
     </>
