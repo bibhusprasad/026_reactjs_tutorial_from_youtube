@@ -46,3 +46,6 @@ react-router
 
 #### Optional Segment
 
+[Optional Segment](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/df869f685ea4dea122b4ad3986bfdcaaaf23aa7d)
+
+#### NavLink and Active class
