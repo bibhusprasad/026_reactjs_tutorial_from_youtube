@@ -42,3 +42,7 @@ react-router
 
 #### Dynamic Routing
 
+[Dynamic Routing](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/ca9ae72a687dd99b72d2aad3f448a2473f60cb69)
+
+#### Optional Segment
+

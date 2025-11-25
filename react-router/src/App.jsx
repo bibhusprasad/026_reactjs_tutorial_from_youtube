@@ -28,9 +28,11 @@ function App() {
             </Route>
           </Route>
 
-          <Route path="/users" element={<Users />} />
+          {/* Static Optional Segment */}
+          <Route path="/users/list?" element={<Users />} />
           {/* Dynamic routing */}
-          <Route path="/users/:id" element={<UserDetails />} />
+          <Route path="/users/:id/:name?" element={<UserDetails />} />
+
         </Route>
 
         <Route path="/college" element={<College />} >
