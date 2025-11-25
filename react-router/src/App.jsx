@@ -10,6 +10,8 @@ import Login from './Login';
 import NavBar from './NavBar';
 import PageNotFound from './PageNotFound';
 import Student from './Student';
+import Users from './Users';
+import UserDetails from './UserDetails';
 
 function App() {
 
@@ -25,6 +27,10 @@ function App() {
               <Route path="/in/user/login" element={<Login />} />
             </Route>
           </Route>
+
+          <Route path="/users" element={<Users />} />
+          {/* Dynamic routing */}
+          <Route path="/users/:id" element={<UserDetails />} />
         </Route>
 
         <Route path="/college" element={<College />} >

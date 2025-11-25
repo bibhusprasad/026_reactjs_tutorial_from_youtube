@@ -38,3 +38,7 @@ react-router
 
 #### Route Prefixes
 
+[Route Prefixes](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d63bd69c8f3848b24f9f1acc2ff9fad03ed0b951)
+
+#### Dynamic Routing
+
