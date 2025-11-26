@@ -9,7 +9,9 @@ react-router
 
 >cd react-router
 
->npm install react@18.3.1 react-dom@18.3.1
+>npm install react@latest
+
+>npm i react-router
 
 [Initial Setup](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/731803c4440638cc92b9b02e564b2e3b46f5a827)
 
@@ -49,3 +51,5 @@ react-router
 [Optional Segment](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/df869f685ea4dea122b4ad3986bfdcaaaf23aa7d)
 
 #### NavLink and Active class
+
+[NavLink and Active class](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/cae35f748783aee075072fb0a8fe4b77c3762bce)
