@@ -26,9 +26,22 @@ function UserData() {
 
   console.log(userData)
 
+  const handleDeleteClick = async (userId) => {
+    console.log('Delete user with ID:', userId);
+    const url = 'http://localhost:3000/users';
+    let response = await fetch(url + "/" + userId, {
+      method: 'delete'
+    });
+    response = await response.json();
+    if (response) {
+      alert('user deleted successfully ');
+      getUserDataFromJsonServer();
+    }
+  }
+
   return (
     <div>
-      <DisplayJsonServerUserData details={userData} />
+      <DisplayJsonServerUserData details={userData} onDeleteClick={handleDeleteClick} />
     </div>
   )
 }

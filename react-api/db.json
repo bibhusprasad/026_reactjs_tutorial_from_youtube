@@ -29,30 +29,6 @@
       "name": "Elena",
       "email": "elena.test@gmail.com",
       "age": 19
-    },
-    {
-      "id": "6",
-      "name": "Farah",
-      "email": "farah.test@gmail.com",
-      "age": 25
-    },
-    {
-      "id": "7",
-      "name": "Gargi",
-      "email": "gargi.test@gmail.com",
-      "age": "55"
-    },
-    {
-      "id": "8",
-      "name": "Hesa",
-      "email": "hesa.test@gmail.com",
-      "age": "28"
-    },
-    {
-      "id": "9",
-      "name": "Alok",
-      "email": "alok.test@gmail.com",
-      "age": "32"
     }
   ]
 }
