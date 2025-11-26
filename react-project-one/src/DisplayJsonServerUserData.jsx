@@ -5,7 +5,7 @@ import './App.css'
 function DisplayJsonServerUserData({ details }) {
   return (
     <div>
-      <h2>User Details</h2>
+      <h3>Display All User Details</h3>
       <table className="table table-bordered border-primary align-middle table-fit">
         <thead>
           <tr>
