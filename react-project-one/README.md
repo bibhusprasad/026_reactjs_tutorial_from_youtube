@@ -12,3 +12,9 @@ react-project-one
 
 >npm i react-router
 
+[Initial Commit](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/70513e0c9d959a051d00e0e1db176f3b222f4917)
+
+#### Install Tailwindcss
+
+>npm install tailwindcss @tailwindcss/vite
+
