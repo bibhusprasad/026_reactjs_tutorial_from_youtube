@@ -1,10 +1,13 @@
-
-.user-list{
+.user-list {
   display: flex;
   justify-content: space-around;
 }
 
-.user-list-header{
+.user-list-header {
   display: flex;
   font-weight: 800;
+}
+
+.table-fit {
+  width: 1px;
 }

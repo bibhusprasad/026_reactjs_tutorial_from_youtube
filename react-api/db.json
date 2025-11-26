@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anil",
+      "email": "anil.test@gmail.com",
+      "age": 29
+    },
+    {
+      "id": 2,
+      "name": "Bibhu",
+      "email": "bibhu.test@gmail.com",
+      "age": 34
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie.test@gmail.com",
+      "age": 21
+    },
+    {
+      "id": 4,
+      "name": "Dev",
+      "email": "dev.test@gmail.com",
+      "age": 40
+    },
+    {
+      "id": 5,
+      "name": "Elena",
+      "email": "elena.test@gmail.com",
+      "age": 19
+    },
+    {
+      "id": 6,
+      "name": "Farah",
+      "email": "farah.test@gmail.com",
+      "age": 25
+    }
+  ]
+}

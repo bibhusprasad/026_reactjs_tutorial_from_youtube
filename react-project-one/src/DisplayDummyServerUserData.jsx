@@ -1,7 +1,7 @@
 
 import './App.css'
 
-function DisplayUserDataBasic({ details }) {
+function DisplayDummyServerUserData({ details }) {
   return (
     <div>
       <table className="table-auto border-separate border-spacing-2 border border-gray-400 dark:border-gray-500">
@@ -36,4 +36,4 @@ function DisplayUserDataBasic({ details }) {
   )
 }
 
-export default DisplayUserDataBasic;
+export default DisplayDummyServerUserData;
