@@ -1,0 +1,10 @@
+
+.user-list{
+  display: flex;
+  justify-content: space-around;
+}
+
+.user-list-header{
+  display: flex;
+  font-weight: 800;
+}

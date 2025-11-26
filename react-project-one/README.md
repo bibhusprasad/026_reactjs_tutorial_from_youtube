@@ -18,3 +18,5 @@ react-project-one
 
 >npm install tailwindcss @tailwindcss/vite
 
+[Install Tailwindcss CSS](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/06dfcdedda33252097c2a35bb883bc5814dcec1e)
+

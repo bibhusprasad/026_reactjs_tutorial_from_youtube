@@ -1,15 +1,13 @@
 
-import './App.css'
+
+import UserData from './UserData'
 
 function App() {
 
   return (
     <>
       <div>
-        <h2>Welcome</h2>
-        <h1 class="text-3xl font-bold underline">
-          Hello world!
-        </h1>
+        <UserData />
       </div>
     </>
   )
