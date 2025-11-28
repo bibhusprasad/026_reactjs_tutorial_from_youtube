@@ -1,11 +1,11 @@
 
-import HookUseOptimistic from "./HookUseOptimistic"
+import ActivityInReact19 from "./ActivityInReact19"
 
 function App() {
 
   return (
     <>
-      <HookUseOptimistic />
+      <ActivityInReact19 />
     </>
   )
 }

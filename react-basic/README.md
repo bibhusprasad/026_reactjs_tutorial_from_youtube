@@ -323,3 +323,8 @@ Same for import
 
 ### 28. use optimistic hook in React 19
 
+[use optimistic hook in React 19](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/dbc5219afef1eaed42d9fd397dfe5c2f1973b71e)
+
+### 29. Activity in React 19
+
+* The <Activity> is a wrapper component that lets you hide parts of your UI but preserve their state and DOM
