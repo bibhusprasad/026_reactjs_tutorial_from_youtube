@@ -1,11 +1,11 @@
 
-import HookCustom from "./HookCustom"
+import HookUseActionStateTwo from "./HookUseActionStateTwo"
 
 function App() {
 
   return (
     <>
-      <HookCustom />
+      <HookUseActionStateTwo />
     </>
   )
 }

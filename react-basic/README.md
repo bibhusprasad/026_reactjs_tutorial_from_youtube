@@ -266,6 +266,7 @@ Same for import
 ### 19. useActionState React Hook
 
 * It updates state based on the result of a form action
+* It can also used as form validation. see 24 series
 
 [useActionState React Hook](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/c370b108fdf2d3e07d5f66fd1459ec6e1e6399ef)
 
@@ -303,3 +304,5 @@ Same for import
 ### 23. Custom Hook in React
 
 [Custom Hook in React](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/ddd8433dbf05413c100e299c7bffdd880cfe8bc0)
+
+### 24. Validation Input Field using useActionState
