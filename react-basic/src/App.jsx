@@ -1,11 +1,11 @@
 
-import ActivityInReact19 from "./ActivityInReact19"
+import HookUseEffectEventReact19 from "./HookUseEffectEventReact19"
 
 function App() {
 
   return (
     <>
-      <ActivityInReact19 />
+      <HookUseEffectEventReact19 />
     </>
   )
 }

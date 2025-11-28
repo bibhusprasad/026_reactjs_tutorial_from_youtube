@@ -328,3 +328,8 @@ Same for import
 ### 29. Activity in React 19
 
 * The <Activity> is a wrapper component that lets you hide parts of your UI but preserve their state and DOM
+
+[Activity in React 19](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/0885280b94e6d2bdd2faa94c7ecc8f5c6caf1649)
+
+### 30. Hook useEffectEvent in React 19
+
