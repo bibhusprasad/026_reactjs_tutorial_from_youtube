@@ -1,11 +1,11 @@
 
-import CallRestApi from "./CallRestApi"
+import HookUseOptimistic from "./HookUseOptimistic"
 
 function App() {
 
   return (
     <>
-      <CallRestApi />
+      <HookUseOptimistic />
     </>
   )
 }
