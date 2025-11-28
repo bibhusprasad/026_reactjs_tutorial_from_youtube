@@ -24,4 +24,10 @@
 
 ## Project 3 : react-project-one
 
-### [Link to react-project-on Readme file](./react-project-one/README.md)
+### [Link to react-project-one Readme file](./react-project-one/README.md)
+
+------------------------
+
+## Project 4 : react-redux-toolkit
+
+### [Link to react-redux-toolkit Readme file](./react-redux-toolkit/README.md)

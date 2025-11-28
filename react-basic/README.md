@@ -333,3 +333,4 @@ Same for import
 
 ### 30. Hook useEffectEvent in React 19
 
+[Hook useEffectEvent in React 19](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/bfe8b46ee91186c76c578988f9ab7f4f68512b50)
