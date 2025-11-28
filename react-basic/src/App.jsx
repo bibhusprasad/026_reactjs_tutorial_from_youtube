@@ -1,11 +1,11 @@
 
-import HookUseActionStateTwo from "./HookUseActionStateTwo"
+import HookUseReducer from "./HookUseReducer"
 
 function App() {
 
   return (
     <>
-      <HookUseActionStateTwo />
+      <HookUseReducer />
     </>
   )
 }
