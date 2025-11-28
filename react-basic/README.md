@@ -311,3 +311,7 @@ Same for import
 
 ### 25. useReducer Hook in React Js
 
+[useReducer Hook in React Js](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a1d85e3c1261b0ad9305cf524f7bc5364b5c952e)
+
+### 26. Lazy Loading in React Js
+

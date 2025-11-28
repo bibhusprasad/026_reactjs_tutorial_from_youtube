@@ -1,11 +1,11 @@
 
-import HookUseReducer from "./HookUseReducer"
+import LazyLoading from "./LazyLoading"
 
 function App() {
 
   return (
     <>
-      <HookUseReducer />
+      <LazyLoading />
     </>
   )
 }
