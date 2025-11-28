@@ -1,11 +1,11 @@
 
-import LazyLoading from "./LazyLoading"
+import CallRestApi from "./CallRestApi"
 
 function App() {
 
   return (
     <>
-      <LazyLoading />
+      <CallRestApi />
     </>
   )
 }

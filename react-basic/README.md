@@ -315,3 +315,7 @@ Same for import
 
 ### 26. Lazy Loading in React Js
 
+[Lazy Loading in React Js](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/76edfb914981748a8fc4d9cbee94277065705a77)
+
+### 27. Call Rest API with use API
+
