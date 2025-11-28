@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
 
-function DisplayJsonServerUserData({ details, onDeleteClick }) {
+function DisplayJsonServerUserData({ details, onDeleteClick, onEditClick }) {
 
   return (
     <div>
@@ -15,6 +15,7 @@ function DisplayJsonServerUserData({ details, onDeleteClick }) {
             <th>Email</th>
             <th>Age</th>
             <th>Delete User</th>
+            <th>Edit User</th>
           </tr>
         </thead>
         <tbody>
@@ -26,6 +27,7 @@ function DisplayJsonServerUserData({ details, onDeleteClick }) {
                 <td>{user.email}</td>
                 <td>{user.age}</td>
                 <td><button type="button" className="btn btn-danger" onClick={() => onDeleteClick(user.id)}>Delete</button></td>
+                <td><button type="button" className="btn btn-warning" onClick={() => onEditClick(user.id)}>Edit</button></td>
               </tr>
             ))
           }

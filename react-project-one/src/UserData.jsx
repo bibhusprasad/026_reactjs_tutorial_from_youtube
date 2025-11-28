@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 import DisplayJsonServerUserData from "./DisplayJsonServerUserData";
+import { useNavigate } from "react-router";
 
 function UserData() {
 
   const [userData, setUserData] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     getUserDataFromJsonServer();
@@ -39,9 +41,14 @@ function UserData() {
     }
   }
 
+  const handleEditClick = (userId) => {
+    console.log(userId)
+    navigate("/edit/" + userId)
+  }
+
   return (
     <div>
-      <DisplayJsonServerUserData details={userData} onDeleteClick={handleDeleteClick} />
+      <DisplayJsonServerUserData details={userData} onDeleteClick={handleDeleteClick} onEditClick={handleEditClick} />
     </div>
   )
 }

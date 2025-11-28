@@ -48,3 +48,8 @@ react-project-one
 
 * DELETE call
 
+[Delete a user](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a36a4588a9da379681f1865aae7488d2e466a3e4)
+
+* PUT call
+
+[Update a user]

@@ -29,6 +29,18 @@
       "name": "Elena",
       "email": "elena.test@gmail.com",
       "age": 19
+    },
+    {
+      "id": "6",
+      "name": "Fatima",
+      "email": "fatima.test@gmail.com",
+      "age": "26"
+    },
+    {
+      "id": "7",
+      "name": "Jack",
+      "email": "jack.test@gmail.com",
+      "age": "29"
     }
   ]
 }
