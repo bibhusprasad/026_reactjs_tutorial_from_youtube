@@ -53,3 +53,4 @@ react-redux-toolkit
 
 >npm install @reduxjs/toolkit react-redux
 
+### 02. Add a Item to cart
