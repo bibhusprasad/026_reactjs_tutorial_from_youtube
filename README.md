@@ -1,8 +1,14 @@
 # 026_reactjs_tutorial_from_youtube
 
+---
+---
+---
+
+## 01. React Js Tutorial
+
 <https://www.youtube.com/playlist?list=PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu>
 
-## 01. Initial Setup
+### 01. Initial Setup
 
 >npm create vite
 
@@ -31,3 +37,15 @@
 ## Project 4 : react-redux-toolkit
 
 ### [Link to react-redux-toolkit Readme file](./react-redux-toolkit/README.md)
+
+---
+---
+---
+
+## 02. React Redux Toolkit with Project
+
+<https://www.youtube.com/watch?v=EV168NQvCHc&t=774s>
+
+## Project 5 : react-rtk-taskmanager
+
+### [Link to react-rtk-taskmanager Readme file](./react-rtk-taskmanager/README.md)

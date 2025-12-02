@@ -8,7 +8,7 @@ react-project-one
 
 >npm create vite@latest react-project-one -- --template react
 
->cd react-router
+>cd react-project-one
 
 >npm i react-router
 
