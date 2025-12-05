@@ -1,12 +1,14 @@
 
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
 import '../css/product.css';
-import { addItem } from '../features/eCart/eCartSlice';
+import { addItem, removeItem } from '../features/eCart/eCartSlice';
 
 function Product() {
 
   const dispatch = useDispatch()
+
+  const cartValue = useSelector(state => state.cart.value)
 
   return (
     <div className="product-card">
@@ -24,6 +26,9 @@ function Product() {
 
         <button className="add-cart-btn" onClick={() => dispatch(addItem(1))}>
           <span className="cart-icon">🛒</span> Add
+        </button>
+        <button className="remove-cart-btn" onClick={() => dispatch(removeItem(1))} disabled={cartValue === 0}>
+          <span className="cart-icon">🛒</span> Remove
         </button>
       </div>
     </div>

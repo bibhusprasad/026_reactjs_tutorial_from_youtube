@@ -78,4 +78,7 @@ react-redux-toolkit
 
 [Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d9b465e0e9e440acf3436be8a2f1d5fbd7f74f08)
 
-[Refactored code]
+[Refactored code](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/79558c29ced2523cd265684f58fca417ec25d03e)
+
+### 05. Remove Items from cart
+

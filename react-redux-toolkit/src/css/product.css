@@ -75,3 +75,28 @@ body {
     font-size: 16px;
 }
 
+.remove-cart-btn {
+    background: #df6363;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: 0.2s;
+}
+
+/* Disabled state */
+.remove-cart-btn:disabled {
+    background: #b3b3b3;   /* light gray */
+    cursor: not-allowed;
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.remove-cart-btn:hover {
+    background: #d83636;
+}

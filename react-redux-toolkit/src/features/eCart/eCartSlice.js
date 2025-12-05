@@ -12,12 +12,17 @@ const addToCart = createSlice({
       reducer: (state) => {
         state.value += 1;
       }
+    },
+    removeItem: (state) => {
+      if(state.value > 0){
+        state.value -= 1;
+      }
     }
   }
 })
 
 //export Action
-export const { addItem } = addToCart.actions;
+export const { addItem, removeItem } = addToCart.actions;
 
 //export reducer
 export default addToCart.reducer;
