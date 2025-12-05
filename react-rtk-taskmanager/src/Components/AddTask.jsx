@@ -12,6 +12,12 @@ function AddTask() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
+
+    if (text.trim() === "") {
+      alert("Please insert data");
+      return; // stop here, don’t add empty task
+    }
+
     dispatch(addTask(text))
     setText('')
   }
