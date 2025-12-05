@@ -39,21 +39,46 @@ nav .nav-links li a:hover {
   text-decoration: underline;
 }
 
-/* Cart */
+/* Cart container */
 .cart {
-  position: relative;
-  font-size: 28px;
-  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fff;
+  padding: 10px 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+/* Cart count */
 .cart-count {
-  position: absolute;
-  top: -6px;
-  right: -10px;
-  background: red;
-  color: #fff;
-  padding: 3px 6px;
-  font-size: 12px;
+  background: #df6363;
+  color: white;
+  padding: 4px 8px;
   border-radius: 50%;
-  font-weight: bold;
+  font-size: 14px;
+}
+
+/* Clear Cart Button */
+.clear-cart-btn {
+  background: #444;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: 0.2s;
+}
+
+.clear-cart-btn:hover {
+  background: #333;
+}
+
+/* Disabled Clear Cart */
+.clear-cart-btn:disabled {
+  background: #b3b3b3;
+  cursor: not-allowed;
+  opacity: 0.6;
+  pointer-events: none;
 }

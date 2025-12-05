@@ -80,5 +80,6 @@ react-redux-toolkit
 
 [Refactored code](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/79558c29ced2523cd265684f58fca417ec25d03e)
 
-### 05. Remove Items from cart
+### 05. Remove and Clear Items from cart
 
+[Remove Items from cart](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/e3999e57e0f505cf0f2def46e717adeb6c6e3e1e)

@@ -14,15 +14,18 @@ const addToCart = createSlice({
       }
     },
     removeItem: (state) => {
-      if(state.value > 0){
+      if (state.value > 0) {
         state.value -= 1;
       }
+    },
+    clearCart: (state) => {
+      state.value = 0;
     }
   }
 })
 
 //export Action
-export const { addItem, removeItem } = addToCart.actions;
+export const { addItem, removeItem, clearCart } = addToCart.actions;
 
 //export reducer
 export default addToCart.reducer;

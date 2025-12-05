@@ -25,10 +25,20 @@ function Product() {
         <span className="price">$49.99</span>
 
         <button className="add-cart-btn" onClick={() => dispatch(addItem(1))}>
-          <span className="cart-icon">🛒</span> Add
+          <span className="icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </span>Add
         </button>
+
         <button className="remove-cart-btn" onClick={() => dispatch(removeItem(1))} disabled={cartValue === 0}>
-          <span className="cart-icon">🛒</span> Remove
+          <span className="icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </span>Remove
         </button>
       </div>
     </div>
