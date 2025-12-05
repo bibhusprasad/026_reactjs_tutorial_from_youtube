@@ -31,7 +31,10 @@ react-rtk-taskmanager
 
 ### 02. Implement Slice
 
+* Ignore App.jsx and index.css file changes. Refactored the code after create store changes.
+
 [Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/624a1c184ffee51efdc54148d3f005504f4db169)
 
 ### 03. Create Store
 
+[Implement Store](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/43925cb1809353026431d6c47b1d59a8b6258554)
