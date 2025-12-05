@@ -1,0 +1,30 @@
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+/* Default button */
+.filter-btn {
+  padding: 8px 18px;
+  font-size: 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #ffffff;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* Hover effect */
+.filter-btn:hover {
+  background: #f3f4f6;
+}
+
+/* Active (selected) button */
+.filter-btn.active {
+  background: #2563eb;
+  color: white;
+  border-color: #2563eb;
+}

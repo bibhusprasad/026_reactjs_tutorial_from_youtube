@@ -43,10 +43,25 @@
 }
 
 /* Done button */
+.undo-btn {
+  background: #facc15; /* Optional: yellow background */
+  color: black;        /* <-- Undo text becomes black */
+  border: 1px solid #d1d5db;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
 .done-btn {
   background: #10b981; /* green */
-  color: #fff;
+  color: white;
+  border: 1px solid #0f8c66;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
 }
+
+
 .done-btn:hover {
   background: #0f8c66;
 }
@@ -56,8 +71,14 @@
   background: #ef4444; /* red */
   color: #fff;
 }
+
 .delete-btn:hover {
   background: #d12f2f;
+}
+
+.task-text.done {
+  text-decoration: line-through;
+  color: #888;
 }
 
 

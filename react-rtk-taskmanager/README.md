@@ -45,4 +45,7 @@ react-rtk-taskmanager
 
 ### 05. Display All Task
 
-[Display All Task]
+[Display All Task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/b886eabda31fc207d6ed82af1546cea5e08b8019)
+
+### 06. Implement filter and toggle task
+
