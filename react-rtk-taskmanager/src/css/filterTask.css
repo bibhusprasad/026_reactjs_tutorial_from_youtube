@@ -23,8 +23,18 @@
 }
 
 /* Active (selected) button */
-.filter-btn.active {
+.filter-btn.active-all {
   background: #2563eb;
   color: white;
   border-color: #2563eb;
+}
+.filter-btn.active-complete {
+  background: #facc15;
+  color: black;
+  border-color: #facc15;
+}
+.filter-btn.active-remaining {
+  background: #10b981;
+  color: white;
+  border-color: #10b981;
 }

@@ -8,7 +8,12 @@ function DisplayAllTask() {
   //task is there inside store.js. name should be match
   const { items, filters } = useSelector(state => state.task)
 
-  const filtered = filters === 'completed' ? items.filter(item => item.completed) : items
+  const filtered =
+    filters === "completed"
+      ? items.filter(item => item.completed)
+      : filters === "remaining"
+      ? items.filter(item => !item.completed)
+      : items; // show all
 
   console.log(items);
 

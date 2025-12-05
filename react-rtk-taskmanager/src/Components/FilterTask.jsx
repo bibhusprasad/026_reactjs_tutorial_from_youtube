@@ -12,18 +12,26 @@ function FilterTask() {
   return (
     <div className="filter-buttons">
       <button
-        className={`filter-btn ${filter === "all" ? "active" : ""}`}
+        className={`filter-btn ${filter === "all" ? "active-all" : ""}`}
         onClick={() => dispatch(setFilter("all"))}
       >
         All
       </button>
 
       <button
-        className={`filter-btn ${filter === "completed" ? "active" : ""}`}
+        className={`filter-btn ${filter === "completed" ? "active-complete" : ""}`}
         onClick={() => dispatch(setFilter("completed"))}
       >
         Completed
       </button>
+
+      <button
+        className={`filter-btn ${filter === "remaining" ? "active-remaining" : ""}`}
+        onClick={() => dispatch(setFilter("remaining"))}
+      >
+        Remaining
+      </button>
+
     </div>
   )
 }

@@ -51,4 +51,8 @@ react-rtk-taskmanager
 
 [Implement filter and toggle task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/198476682995b66a2ce6287d617177002bcd6550)
 
-### 06. Implement delete task
+### 07. Implement delete task
+
+[Implement delete task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/9b310bb92f2b1727780162f6f045db612ff05753)
+
+### 08. Implement Remaining button
