@@ -66,5 +66,5 @@ react-redux-toolkit
 
 >npm install @reduxjs/toolkit react-redux
 
-
+### 02. Implement Slice
 
