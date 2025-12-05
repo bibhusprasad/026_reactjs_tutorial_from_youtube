@@ -27,9 +27,13 @@ react-redux-toolkit
 
 #### Redux
 
+* Redux is a state management library used in JavaScript applications (specially React) to manage and centralize application state.
+
 ![plot](/images-for-note/03.react-redux.png?raw=true)
 
 #### Redux Toolkit
+
+* Redux Toolkit (RTK) is the official recommended way to write redux logic. It was created to simplify Redux development, address common problems and reduce boilerplate code
 
 * Slice = Action + Reducers
 
@@ -48,6 +52,15 @@ react-redux-toolkit
 #### Slice
 
 * Slice = Action + Reducers
+
+* We can a single store for the entire application. It work like centralized data storage for the entire application.
+* For Example for Task Manager application
+  * Each task is a store. we need to keep it in store.
+  * The logic for each Action and Reducer for a task like delete, update, complete is stored in a Slice.
+
+* Take another example Counter application
+  * Reducer hold the logic of Increment and decrement part
+  * Action will tell whether it need to increase or decrease
 
 #### Install Redux toolkit
 
