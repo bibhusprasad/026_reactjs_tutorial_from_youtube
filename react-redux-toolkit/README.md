@@ -66,6 +66,5 @@ react-redux-toolkit
 
 >npm install @reduxjs/toolkit react-redux
 
-### 02. Add a Item to cart
 
-[Add a Item to cart](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d237b07a6cc37d02ad9e30aec6479f490cb6c034)
+
