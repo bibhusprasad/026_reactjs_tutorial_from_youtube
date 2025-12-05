@@ -73,3 +73,7 @@ react-redux-toolkit
 ### 03. Implement Store
 
 [Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/4904a57f69ada1700808401d0a92eaa6ec7d2fd6)
+
+### 04. Add Items to cart
+
+[Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/d9b465e0e9e440acf3436be8a2f1d5fbd7f74f08)
