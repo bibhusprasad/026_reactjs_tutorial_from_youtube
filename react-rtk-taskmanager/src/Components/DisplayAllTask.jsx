@@ -8,7 +8,7 @@ function DisplayAllTask() {
   //task is there inside store.js. name should be match
   const { items, filters } = useSelector(state => state.task)
 
-  const filter = useSelector(state => state.task.filters)
+  const filtered = filters === 'completed' ? items.filter(item => item.completed) : items
 
   console.log(items);
 
@@ -17,13 +17,9 @@ function DisplayAllTask() {
       <FilterTask />
       <div className="task-list">
         {
-          items
-            .filter(item =>
-              filter === "completed" ? item.completed === true : true
-            )
-            .map(item => (
-              <TaskItem key={item.id} task={item} />
-            ))
+          filtered.map(item => (
+            <TaskItem key={item.id} task={item} />
+          ))
         }
       </div>
     </div>
