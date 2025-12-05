@@ -1,5 +1,5 @@
 import AddToCart from './AddToCart';
-import './css/header.css';
+import '../css/header.css';
 
 function Header() {
   return (

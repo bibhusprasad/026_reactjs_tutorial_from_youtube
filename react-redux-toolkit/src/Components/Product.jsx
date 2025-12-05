@@ -1,8 +1,8 @@
 
 import { useDispatch } from 'react-redux';
 
-import './css/product.css';
-import { addItem } from './features/ekart/addToCartSlice';
+import '../css/product.css';
+import { addItem } from '../features/eCart/eCartSlice';
 
 function Product() {
 
@@ -23,7 +23,7 @@ function Product() {
         <span className="price">$49.99</span>
 
         <button className="add-cart-btn" onClick={() => dispatch(addItem(1))}>
-          <span className="cart-icon">🛒</span> Add to Cart
+          <span className="cart-icon">🛒</span> Add
         </button>
       </div>
     </div>

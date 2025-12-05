@@ -60,3 +60,5 @@ react-rtk-taskmanager
 [Implement delete task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/60899839239ce5fbbd795f1b6ff061438ddf839c)
 
 ### 09. Validation for empty task
+
+[Implement delete task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/22f6d9bc0905d7491a1eeb5f6479208b475b7572)

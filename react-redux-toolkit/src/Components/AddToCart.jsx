@@ -1,9 +1,9 @@
 import { useSelector } from 'react-redux';
+import '../css/header.css'
 
 function AddToCart() {
 
   const selector = useSelector((state) => state.cart.value)
-  console.log(selector)
 
   return (
     <div className="cart">
