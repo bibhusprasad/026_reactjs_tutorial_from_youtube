@@ -38,3 +38,11 @@ react-rtk-taskmanager
 ### 03. Create Store
 
 [Implement Store](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/43925cb1809353026431d6c47b1d59a8b6258554)
+
+### 04. Add Task
+
+[Add Task](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/4d7b60dcb725740cb6faf8ba69bfb22a09cc208e)
+
+### 05. Display All Task
+
+[Display All Task]
