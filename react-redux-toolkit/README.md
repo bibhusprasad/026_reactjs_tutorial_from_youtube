@@ -68,3 +68,7 @@ react-redux-toolkit
 
 ### 02. Implement Slice
 
+[Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/14ec881938f11e53144d1ca7d73aa32a73cacbcd)
+
+### 03. Implement Store
+
