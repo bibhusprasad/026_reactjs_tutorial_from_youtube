@@ -29,3 +29,9 @@ react-rtk-taskmanager
   * Reducer hold the logic of Increment and decrement part
   * Action will tell whether it need to increase or decrease
 
+### 02. Implement Slice
+
+[Implement Slice](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/624a1c184ffee51efdc54148d3f005504f4db169)
+
+### 03. Create Store
+
