@@ -3,19 +3,10 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import '../css/product.css';
 import { addItem, removeItem } from '../features/eCart/eCartSlice';
-import { useEffect } from 'react';
-import { fetchProducts } from '../features/eCart/productSlice'
 
 function Product() {
 
   const dispatch = useDispatch()
-
-  useEffect(() => {
-    dispatch(fetchProducts())
-  }, [])
-
-  const productsList = useSelector(state => state.products.items)
-  console.log(productsList)
 
   const cartValue = useSelector(state => state.cart.value)
 

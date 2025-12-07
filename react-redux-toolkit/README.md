@@ -90,3 +90,6 @@ react-redux-toolkit
 
 [Configure API call to fetch all products](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a37d75d160bebdc2ea09e6f7d1d1e36835ba6201)
 
+[Display All Products in ui](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/789b3da89848ecf3f5d5b1a7ba0dc4f61b6d8a9b)
+
+[Implement Add, Remove, Clear Cart functionality]
