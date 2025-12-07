@@ -92,4 +92,6 @@ react-redux-toolkit
 
 [Display All Products in ui](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/789b3da89848ecf3f5d5b1a7ba0dc4f61b6d8a9b)
 
-[Implement Add, Remove, Clear Cart functionality]
+[Implement Add, Remove, Clear Cart functionality](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/17f35826ce7b1306e5dba5beff4275d52a79b101)
+
+[Implement Pagination Logic]
