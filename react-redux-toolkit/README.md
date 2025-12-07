@@ -88,3 +88,5 @@ react-redux-toolkit
 
 ### 06. Call Product API
 
+[Configure API call to fetch all products](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/a37d75d160bebdc2ea09e6f7d1d1e36835ba6201)
+

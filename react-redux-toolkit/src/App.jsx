@@ -1,12 +1,15 @@
 import Header from "./Components/Header";
-import Product from "./Components/Product";
+import ApiProducts from "./Components/ApiProducts";
+import Pagination from "./Components/Pagination";
 
 function App() {
   return (
     <>
       <Header />
       <h2>React with Redux Toolkit</h2>
-      <Product />
+      <Pagination />
+      <ApiProducts />
+      <Pagination />
     </>
   )
 }

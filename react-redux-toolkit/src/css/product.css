@@ -4,6 +4,12 @@ body {
     padding: 20px;
 }
 
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
 /* Product Card */
 .product-card {
     width: 260px;
@@ -27,7 +33,12 @@ body {
 
 /* Product name */
 .product-name {
-    font-size: 18px;
+    font-size: 14px;
+    margin: 10px 0 5px;
+}
+
+.product-brand {
+    font-size: 16px;
     margin: 10px 0 5px;
 }
 
@@ -104,3 +115,31 @@ body {
 .icon svg {
   stroke: white;
 }
+
+.star-rating {
+  position: relative;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.star-rating .stars-outer::before,
+.star-rating .stars-inner::before {
+  content: "★★★★★";        /* 5 stars */
+}
+
+.star-rating .stars-outer {
+  color: #ccc;              /* gray stars */
+}
+
+.star-rating .stars-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #f6b400;           /* filled (yellow) stars */
+  width: 0;                 /* will be set dynamically */
+}
+
+
