@@ -83,3 +83,8 @@ react-redux-toolkit
 ### 05. Remove and Clear Items from cart
 
 [Remove Items from cart](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/e3999e57e0f505cf0f2def46e717adeb6c6e3e1e)
+
+[Clear all items from cart](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/e681081a633015a5804632a91730f94e3698ad8b)
+
+### 06. Call Product API
+
