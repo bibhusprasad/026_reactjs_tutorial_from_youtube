@@ -94,4 +94,4 @@ react-redux-toolkit
 
 [Implement Add, Remove, Clear Cart functionality](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/17f35826ce7b1306e5dba5beff4275d52a79b101)
 
-[Implement Pagination Logic]
+[Implement Pagination Logic](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/eabbf453ac53c48b96001abf3b09b9d75d1cc982)
