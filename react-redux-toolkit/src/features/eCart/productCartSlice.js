@@ -35,12 +35,15 @@ const addProductToCart = createSlice({
     clearCart: (state) => {
       state.items = []
       localStorage.setItem('cart', [])
-    }
+    },
+    updateCart: (state, action) => {
+      state.items = action.payload;
+    },
   }
 })
 
 //export Action
-export const { addItem, removeItem, clearCart } = addProductToCart.actions;
+export const { addItem, removeItem, clearCart, updateCart } = addProductToCart.actions;
 
 //export reducer
 export default addProductToCart.reducer;

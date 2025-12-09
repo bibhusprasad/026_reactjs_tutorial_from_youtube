@@ -1,8 +1,11 @@
 import React from "react";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import '../css/cartList.css'
+import { updateCart } from '../features/eCart/productCartSlice';
 
 function CartList() {
+  const dispatch = useDispatch()
+
   const cartList = useSelector((state) => state.productsCart.items);
 
   // assuming each item = { id, title, price, description, image, quantity }
@@ -27,6 +30,27 @@ function CartList() {
     );
   }
 
+  const manageQuantity = (id, type) => {
+    if (type === "remove") {
+      const updatedCart = cartList.filter(item => item.id !== id);
+      dispatch(updateCart(updatedCart));
+      return;
+    }
+
+    const updatedCart = cartList.map(item => {
+      if (item.id === id) {
+        if (type === "increase") {
+          return { ...item, quantity: item.quantity + 1 };
+        } else if (type === "decrease" && item.quantity > 1) {
+          return { ...item, quantity: item.quantity - 1 };
+        }
+      }
+      return item;
+    });
+
+    dispatch(updateCart(updatedCart));
+  };
+
   return (
     <div className="cart-container">
       <div className="cart-header">
@@ -49,9 +73,9 @@ function CartList() {
               </div>
 
               <div className="cart-item-qty">
-                <button>-</button>
+                <button onClick={() => manageQuantity(item.id, 'decrease')}>-</button>
                 <span>{item.quantity || 1}</span>
-                <button>+</button>
+                <button onClick={() => manageQuantity(item.id, 'increase')}>+</button>
               </div>
 
               <div className="cart-item-price">₹{item.price}</div>
@@ -60,7 +84,7 @@ function CartList() {
                 ₹{(item.price * (item.quantity || 1)).toFixed(2)}
               </div>
 
-              <button className="remove-btn">&times;</button>
+              <button className="remove-btn" onClick={() => manageQuantity(item.id, 'remove')}>&times;</button>
             </div>
           ))}
         </div>

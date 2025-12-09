@@ -98,4 +98,6 @@ react-redux-toolkit
 
 [Implement local storage to hold cart data after refresh](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/26a48464344b7e443fcc9da5d26c1ec2e73282ee)
 
-[Add Routing Page Navigation and Cart Page]
+[Add Routing Page Navigation and Cart Page](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/15aff87ca00b9642f20103c4b90d9a3562dbc3a9)
+
+[Adjust quantity and remove product from cart]
