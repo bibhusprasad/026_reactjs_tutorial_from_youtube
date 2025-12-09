@@ -1,10 +1,13 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import '../css/cartList.css'
-import { updateCart } from '../features/eCart/productCartSlice';
+import { updateCart, clearCart } from '../features/eCart/productCartSlice';
+import { useNavigate } from 'react-router';
 
 function CartList() {
   const dispatch = useDispatch()
+
+  const navigate = useNavigate()
 
   const cartList = useSelector((state) => state.productsCart.items);
 
@@ -50,6 +53,12 @@ function CartList() {
 
     dispatch(updateCart(updatedCart));
   };
+
+  const handlePlaceOrder = () => {
+    alert('Order Placed')
+    dispatch(clearCart());
+    navigate("/")
+  }
 
   return (
     <div className="cart-container">
@@ -114,8 +123,8 @@ function CartList() {
               <span>₹{totalAmount.toFixed(2)}</span>
             </div>
 
-            <button className="checkout-btn">Place Order</button>
-            <button className="continue-btn">Continue Shopping</button>
+            <button className="checkout-btn" onClick={handlePlaceOrder}>Place Order</button>
+            <button className="continue-btn" onClick={() => { navigate("/") }}>Continue Shopping</button>
           </div>
         </div>
       </div>
