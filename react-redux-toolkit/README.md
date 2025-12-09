@@ -102,4 +102,5 @@ react-redux-toolkit
 
 [Adjust quantity and remove product from cart](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/0e02d0993e847e0a1883afcfa5cbf60f2bbf8c5a)
 
-[Place order and continue navigate added]
+[Place order and continue navigate added](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/35e766705cce0a6ac760d1b965424f8ed2f899d1)
+
