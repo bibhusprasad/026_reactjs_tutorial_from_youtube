@@ -95,3 +95,7 @@ react-redux-toolkit
 [Implement Add, Remove, Clear Cart functionality](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/17f35826ce7b1306e5dba5beff4275d52a79b101)
 
 [Implement Pagination Logic](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/eabbf453ac53c48b96001abf3b09b9d75d1cc982)
+
+[Implement local storage to hold cart data after refresh](https://github.com/bibhusprasad/026_reactjs_tutorial_from_youtube/commit/26a48464344b7e443fcc9da5d26c1ec2e73282ee)
+
+[Add Routing Page Navigation and Cart Page]

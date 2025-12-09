@@ -1,6 +1,7 @@
 import { useDispatch, useSelector } from 'react-redux';
 import '../css/header.css'
 import { clearCart } from '../features/eCart/productCartSlice';
+import { Link } from 'react-router';
 
 function AddToCart() {
 
@@ -10,7 +11,7 @@ function AddToCart() {
 
   return (
     <div className="cart">
-      <span className="cart-icon">🛒</span>
+      <span className="cart-icon"><Link to='/cart'>🛒</Link></span>
       <span className="cart-count">{cartItems ? cartItems.length : 0}</span>
 
       <button
